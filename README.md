@@ -1,2 +1,2 @@
 # hello_world
-其他
+github,i like it,i hope can study some things.
